@@ -1,5 +1,5 @@
 
-# Calculating Latent TB reactivation rates for TB risk populations in the US
+# Latent TB reactivation rates for TB risk populations in the US
 
 
 For individuals infected with Mycobacterium tuberculosis (Mtb), the risk of developing TB disease extends many years after the initial infection [1, 2]. As a consequence of this, in countries that have been able to reduce current Mtb transmission to low levels a substantial fraction of incident TB cases will result from historical infections. In the United States for 2019-2020, 87.5% of all TB cases could not be attributed to recent transmission, indicating the TB case was likely due to infection greater than 2 years prior to diagnosis [3].  These cases of ‘reactivation TB’ arise among the population of individuals with a latent TB infection (LTBI) acquired earlier in life. For countries like the United States, identifying individuals with LTBI and providing TB preventive therapy (TPT) is a major focus of TB prevention activities [4, 5].
