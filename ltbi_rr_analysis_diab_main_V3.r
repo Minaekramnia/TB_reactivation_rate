@@ -1,5 +1,4 @@
-#  setwd("/Users/nicolasmenzie/Google Drive/Harvard/CDC Large Grant/reactivation_rates/most_recent")
-#  setwd("/Volumes/GoogleDrive/Other computers/My MacBook Pro (1)/Google Drive/Harvard/CDC Large Grant/reactivation_rates/most_recent")
+#  setwd
 
 # rm(list=ls())
 ##### SET UP  
@@ -222,7 +221,7 @@ ltbi_pop_sims_nr <- pop_sims_nr * ltbi_prev_sims_nr
 
 ###### E. Create samples of cases
 # Load data
-load("/Users/nicolasmenzie/Google Drive/Harvard/CDC Large Grant/reactivation_rates/ntss_dummy_50DC_2021-05-19.rData")
+load("reactivation_rates/ntss_dummy_50DC_2021-05-19.rData")
 
 # Subset cases in 2011-12 age over 17
 cases_all <- tbdummy50DC[tbdummy50DC$YEAR%in%(2011:2012) &
